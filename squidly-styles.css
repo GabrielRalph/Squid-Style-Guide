@@ -1,0 +1,8 @@
+:root {
+  --tm-hue: 270;
+  --tm-saturation: 60%;
+  --tm-saturation-light: 40%;
+  --tm-logo-color: #8f53c9;
+
+  --tm-color: hsl(var(--tm-hue), var(--tm-saturation), 77%);
+}
